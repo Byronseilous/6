@@ -1,4 +1,4 @@
-# Scooter Filtering App.
+# Scooter(Garri) Filtering App.
 
 Mininal filter application for scooters. Built with ReactJS.
 
